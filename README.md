@@ -4,10 +4,12 @@ Hi! I'm an international student from Türkiye, double majoring in Computer Scie
 ## Skills
 • Soft Skills:
 Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Multi-cultural Perspective, Communication, Teamwork, Critical Thinking
+
 • Hard Skills:
 o Hard Sciences — math, physics, chemistry, biology (8 semesters of honors experience in each)
 o Financial — basic accounting, statistical and economic analysis
 o Specialized Areas — combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathemtatical proofs and inductions
+
 • Language Skills:
 o Turkish: Native
 o English: C2
@@ -22,6 +24,7 @@ o Python: Intermediate
 o Jupyter Notebook: Beginner
 o Git: Beginner
 o Docker: Beginner
+
 • Microsoft Office Skills
 o Word: Advanced
 o Excel: Basic/Intermediate 
