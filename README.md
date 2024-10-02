@@ -31,7 +31,7 @@ Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC 
 
 
 ### Soft Skills
-Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Multi-cultural Perspective, Communication, Teamwork, Critical Thinking
+Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Teamwork, Multi-cultural Perspective, Communication, Critical Thinking
 
 ### Hard Skills
 ###### Hard Sciences:
