@@ -7,17 +7,19 @@ Hi! I'm an international student from Türkiye, double majoring in Computer Scie
 Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Multi-cultural Perspective, Communication, Teamwork, Critical Thinking
 
 
-• Hard Skills:
+#### Hard Skills
+###### Hard Sciences:
+Math, physics, chemistry, biology (8 semesters of honors experience in each)
+###### Financial:
+Basic accounting, statistical and economic analysis
+###### Specialized Areas:
+Combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathemtatical proofs and inductions
 
-o Hard Sciences — math, physics, chemistry, biology (8 semesters of honors experience in each)
-o Financial — basic accounting, statistical and economic analysis
-o Specialized Areas — combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathemtatical proofs and inductions
+#### Language Skills:
+###### Turkish — Native
+###### English — C2
+###### Spanish — A1
 
-• Language Skills:
-
-o Turkish — Native
-o English — C2
-o Spanish — A1
 
 ### Courses @ UNC
 ###### COMP110: Intro to Programming
@@ -26,13 +28,13 @@ o Spanish — A1
 ###### MATH381: Discrete Mathematics
 ###### ECON400: Introduction to Data Science and Econometrics
 
+
 ### Tools and Programming Languages
 #### Programming Skills:
 ###### Python — Intermediate
 ###### Jupyter Notebook — Beginner
 ###### Git — Beginner
 ###### Docker — Beginner
-
 
 #### Microsoft Office Skills:
 ###### Word — Advanced
