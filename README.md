@@ -28,16 +28,14 @@ o Spanish — A1
 
 ### Tools and Programming Languages
 #### Programming Skills:
+###### Python — Intermediate
+###### Jupyter Notebook — Beginner
+###### Git — Beginner
+###### Docker — Beginner
 
-o Python — Intermediate
-o Jupyter Notebook — Beginner
-o Git — Beginner
-o Docker — Beginner
 
-
-• Microsoft Office Skills:
-
-o Word — Advanced
-o Excel — Basic/Intermediate 
-o PowerPoint — Advanced
-o OneNote — Advanced
+#### Microsoft Office Skills:
+###### Word — Advanced
+###### Excel — Basic/Intermediate 
+###### PowerPoint — Advanced
+###### OneNote — Advanced
