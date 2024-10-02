@@ -14,6 +14,7 @@ o Financial — basic accounting, statistical and economic analysis
 o Specialized Areas — combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathemtatical proofs and inductions
 
 • Language Skills:
+
 o Turkish: Native
 o English: C2
 o Spanish: A1
@@ -22,7 +23,7 @@ o Spanish: A1
 COMP110, COMP290, MATH233, MATH381, ECON400
 
 ### Tools and Programming Languages
-• Programming Skills
+• Programming Skills:
 
 o Python: Intermediate
 o Jupyter Notebook: Beginner
