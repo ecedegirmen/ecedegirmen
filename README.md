@@ -20,14 +20,14 @@ o English — C2
 o Spanish — A1
 
 ### Courses @ UNC
-o COMP110: Intro to Programming
-o COMP290: Special Topics in Computer Science
-o MATH233: Calculus of Functions of Several Variables
+###### COMP110: Intro to Programming
+###### COMP290: Special Topics in Computer Science
+###### MATH233: Calculus of Functions of Several Variables
 ###### MATH381: Discrete Mathematics
 ###### ECON400: Introduction to Data Science and Econometrics
 
 ### Tools and Programming Languages
-• Programming Skills:
+#### Programming Skills:
 
 o Python — Intermediate
 o Jupyter Notebook — Beginner
