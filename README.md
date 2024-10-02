@@ -15,9 +15,9 @@ o Specialized Areas — combinatorics, classical mechanics, electricity and magn
 
 • Language Skills:
 
-o Turkish: Native
-o English: C2
-o Spanish: A1
+o Turkish — Native
+o English — C2
+o Spanish — A1
 
 ### Courses @ UNC
 COMP110, COMP290, MATH233, MATH381, ECON400
@@ -25,15 +25,15 @@ COMP110, COMP290, MATH233, MATH381, ECON400
 ### Tools and Programming Languages
 • Programming Skills:
 
-o Python: Intermediate
-o Jupyter Notebook: Beginner
-o Git: Beginner
-o Docker: Beginner
+o Python — Intermediate
+o Jupyter Notebook — Beginner
+o Git — Beginner
+o Docker — Beginner
 
 
-• Microsoft Office Skills
+• Microsoft Office Skills:
 
-o Word: Advanced
-o Excel: Basic/Intermediate 
-o PowerPoint: Advanced
-o OneNote: Advanced
+o Word — Advanced
+o Excel — Basic/Intermediate 
+o PowerPoint — Advanced
+o OneNote — Advanced
