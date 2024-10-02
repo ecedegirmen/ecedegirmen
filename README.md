@@ -39,4 +39,4 @@ Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
 ###### Financial:
 Basic Accounting, Statistical and Economic Analysis
 ###### Specialized Areas:
-Combinatorics, Classical Mechanics, Electricity and Magnetism, Geometric and Logical Analysis, Modular Arithmetic, Mathematical Proofs and Inductions
+Probability and Combinatorics, Classical Mechanics, Electricity and Magnetism, Modular Arithmetic, Geometric and Logical Analysis, Mathematical Proofs and Inductions
