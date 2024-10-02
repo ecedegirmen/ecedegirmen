@@ -20,12 +20,15 @@ COMP110, COMP290, MATH233, MATH381, ECON400
 
 ### Tools and Programming Languages
 • Programming Skills
+
 o Python: Intermediate
 o Jupyter Notebook: Beginner
 o Git: Beginner
 o Docker: Beginner
 
+
 • Microsoft Office Skills
+
 o Word: Advanced
 o Excel: Basic/Intermediate 
 o PowerPoint: Advanced
