@@ -20,7 +20,11 @@ o English — C2
 o Spanish — A1
 
 ### Courses @ UNC
-COMP110, COMP290, MATH233, MATH381, ECON400
+o COMP110: Intro to Programming
+o COMP290: Special Topics in Computer Science
+o MATH233: Calculus of Functions of Several Variables
+o MATH381: Discrete Mathematics
+o ECON400: Introduction to Data Science and Econometrics
 
 ### Tools and Programming Languages
 • Programming Skills:
