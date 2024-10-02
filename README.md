@@ -33,7 +33,7 @@ Math, physics, chemistry, biology (8 semesters of honors experience in each)
 ###### Financial:
 Basic accounting, statistical and economic analysis
 ###### Specialized Areas:
-Combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathemtatical proofs and inductions
+Combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathematical proofs and inductions
 
 ### Language Skills
 ###### Turkish — Native
