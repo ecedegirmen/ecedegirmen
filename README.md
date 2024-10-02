@@ -35,8 +35,8 @@ Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experienc
 
 ### Hard Skills
 ###### Hard Sciences:
-Math, physics, chemistry, biology (8 semesters of honors experience in each)
+Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
 ###### Financial:
-Basic accounting, statistical and economic analysis
+Basic Accounting, Statistical and Economic Analysis
 ###### Specialized Areas:
-Combinatorics, classical mechanics, electricity and magnetism, modular arithmetic, geometric and logical analysis, mathematical proofs and inductions
+Combinatorics, Classical Mechanics, Electricity and Magnetism, Geometric and Logical Analysis, Modular Arithmetic, Mathematical Proofs and Inductions
