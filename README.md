@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC Chapel Hill. Hoping to add Computer Science as my second major, I'm currently following a pre-applicant track for the CS Program. Along with a passion for studying econometrics, math, and programming, I'm seeking to explore the field of AI and data science. 
+Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC Chapel Hill. Hoping to add Computer Science as my second major, I'm currently following a pre-applicant track for the CS Program. Along with a passion for studying econometrics, math, and programming, I'm seeking to explore the fields of AI and data science. 
 
 ## Skills
 ### Courses @ UNC
