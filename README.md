@@ -11,7 +11,7 @@ Hi! I'm an international student from Türkiye, double majoring in Computer Scie
 
 
 ### Tools and Programming Languages
-#### Programming Skills
+##### Programming Skills
 ###### Python — Intermediate
 ###### Jupyter Notebook — Beginner
 ###### Git — Beginner
