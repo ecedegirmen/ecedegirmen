@@ -34,9 +34,9 @@ Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC 
 Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Teamwork, Multi-cultural Perspective, Communication, Critical Thinking
 
 ### Hard Skills
-###### Hard Sciences:
-Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
 ###### Financial:
 Basic Accounting, Statistical and Economic Analysis
+###### Hard Sciences:
+Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
 ###### Specialized Areas:
 Probability and Combinatorics, Classical Mechanics, Electricity and Magnetism, Modular Arithmetic, Geometric and Logical Analysis, Mathematical Proofs and Inductions
