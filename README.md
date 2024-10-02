@@ -24,6 +24,12 @@ Hi! I'm an international student from Türkiye, double majoring in Computer Scie
 ###### OneNote — Advanced
 
 
+### Language Skills
+###### Turkish — Native
+###### English — C2
+###### Spanish — A1
+
+
 ### Soft Skills
 Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Multi-cultural Perspective, Communication, Teamwork, Critical Thinking
 
@@ -34,8 +40,3 @@ Math, physics, chemistry, biology (8 semesters of honors experience in each)
 Basic accounting, statistical and economic analysis
 ###### Specialized Areas:
 Combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathematical proofs and inductions
-
-### Language Skills
-###### Turkish — Native
-###### English — C2
-###### Spanish — A1
