@@ -17,7 +17,7 @@ Hi! I'm an international student from Türkiye, double majoring in Computer Scie
 ###### Git — Beginner
 ###### Docker — Beginner
 
-#### Microsoft Office Skills
+##### Microsoft Office Skills
 ###### Word — Advanced
 ###### Excel — Basic/Intermediate 
 ###### PowerPoint — Advanced
