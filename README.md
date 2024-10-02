@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm an international student from Türkiye, double majoring in Computer Science and Economics BS at UNC Chapel Hill. Along with a passion for studying econometrics, math, and programming, I'm seeking to explore the field of AI and data science. 
+Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC Chapel Hill. Hoping to add Computer Science as my second major, I'm currently following a pre-applicant track for the CS Program. Along with a passion for studying econometrics, math, and programming, I'm seeking to explore the field of AI and data science. 
 
 ## Skills
 ### Courses @ UNC
@@ -39,4 +39,4 @@ Math, physics, chemistry, biology (8 semesters of honors experience in each)
 ###### Financial:
 Basic accounting, statistical and economic analysis
 ###### Specialized Areas:
-Combinatorics, classical mechanics, electricity and magnetism, mole calculations, modular arithmetic, geometric and logical analysis, mathematical proofs and inductions
+Combinatorics, classical mechanics, electricity and magnetism, modular arithmetic, geometric and logical analysis, mathematical proofs and inductions
