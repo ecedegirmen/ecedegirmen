@@ -38,5 +38,5 @@ Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experienc
 Basic Accounting, Statistical and Economic Analysis
 ###### Hard Sciences:
 Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
-###### Specialized Areas:
+###### Special Interests:
 Probability and Combinatorics, Classical Mechanics, Electricity and Magnetism, Modular Arithmetic, Geometric and Logical Analysis, Mathematical Proofs and Inductions
