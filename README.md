@@ -19,7 +19,7 @@ Hi! I'm an international student from Türkiye, majoring in Economics BS at UNC 
 
 ##### Microsoft Office Skills
 ###### Word — Advanced
-###### Excel — Basic/Intermediate 
+###### Excel — Intermediate 
 ###### PowerPoint — Advanced
 ###### OneNote — Advanced
 
