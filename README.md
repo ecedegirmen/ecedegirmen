@@ -19,10 +19,11 @@ Project pages document the research question, available materials, my contributi
 
 ## Technical foundations
 
-My earlier coursework and practice cover Python, TypeScript, Git, Docker, networking, and automation.
+My [coursework collection](https://github.com/ecedegirmen/coursework) brings together my technical training by course, including Python, Java, TypeScript, Git, Docker, networking, and automation.
 
-- [Software tools and project planning](https://github.com/ecedegirmen/comp290-workspace): course workspace, including a personal-finance app proposal, wireframes, and development plan.
-- [TypeScript foundations](https://github.com/ecedegirmen/TypeHero-Tutorial): TypeHero exercises on types, operators, and generics.
-- [Browse the coursework directory](https://github.com/ecedegirmen/research-portfolio/blob/main/docs/repository-directory.md#coursework-and-technical-practice): smaller Git, networking, and build-automation exercises.
+- [Software tools and project planning](https://github.com/ecedegirmen/coursework/tree/main/COMP290): course workspace, including a personal-finance app proposal, wireframes, and development plan.
+- [TypeScript foundations](https://github.com/ecedegirmen/coursework/tree/main/COMP290/practice/typescript): TypeHero exercises on types, operators, and generics.
+- [Java coursework](https://github.com/ecedegirmen/coursework/tree/main/COMP210): COMP 210 source files.
+- [Programming resources](https://github.com/ecedegirmen/coursework/tree/main/COMP110): COMP 110 course resources.
 
 I speak Turkish and English and bring an international perspective from Türkiye to my studies and work.
