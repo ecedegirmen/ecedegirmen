@@ -1,42 +1,28 @@
-## About Me
-Hi! I'm an international student from Türkiye, majoring in Economics and Data Science at UNC Chapel Hill. Along with a passion for studying econometrics, math, and programming, I'm seeking to explore the fields of AI and data science. 
+# Ece Degirmen
 
-## Skills
-### Courses @ UNC
-###### COMP110: Intro to Programming
-###### COMP290: Special Topics in Computer Science
-###### MATH233: Calculus of Functions of Several Variables
-###### MATH381: Discrete Mathematics
-###### ECON400: Introduction to Data Science and Econometrics
+**Economics · Data Science · Applied Research**
 
+I'm a senior at UNC Chapel Hill studying Economics (BS) and Data Science (BA), with a minor in Statistics & Analytics. I'm interested in how people and organizations respond to incentives, uncertainty, and changing conditions—and how economic reasoning, data, and programming can inform decisions in policy, finance, and business.
 
-### Tools and Programming Languages
-##### Programming Skills
-###### Python — Intermediate
-###### Jupyter Notebook — Beginner
-###### Git — Beginner
-###### Docker — Beginner
+**[Explore my research portfolio](https://github.com/ecedegirmen/research-portfolio#explore-the-projects)** · [Repository directory](https://github.com/ecedegirmen/research-portfolio/blob/main/docs/repository-directory.md) · [LinkedIn](https://www.linkedin.com/in/ece-degirmen) · [Email](mailto:eced@unc.edu)
 
-##### Microsoft Office Skills
-###### Word — Advanced
-###### Excel — Intermediate 
-###### PowerPoint — Advanced
-###### OneNote — Advanced
+## Research and analysis
 
+| Project | Question and approach | Current stage |
+| --- | --- | --- |
+| [Firm investment in AI capital](https://github.com/ecedegirmen/research-portfolio/tree/main/projects/firm-investment) | Dynamic optimization and numerical simulation in Python; how AI–labor substitutability affects investment | Completed course project; documentation and slides available |
+| [North Carolina Opportunity Scholarship expansion](https://github.com/ecedegirmen/research-portfolio/tree/main/projects/opportunity-scholarship) | Independent research on expanded eligibility, educational access, enrollment, and public spending | Initial policy-selection milestone completed |
+| [Transportation access to education and training](https://github.com/ecedegirmen/research-portfolio/tree/main/projects/transportation-access) | Carolina Impact Fellowship project on whether transit and class schedules permit practical access | Scope and data planning |
+| [Austin Animal Center intake and outcomes](https://github.com/ecedegirmen/research-portfolio/tree/main/projects/austin-animal-center) | Collaborative analysis in R; my role focuses on interpreting evidence and limitations | Coursework in progress |
 
-### Language Skills
-###### Turkish — Native
-###### English — C2
-###### Spanish — A1
+Project pages document the research question, available materials, my contribution, and next steps.
 
+## Technical foundations
 
-### Soft Skills
-Conflict resolution, Adaptability, Problem-solving, Leadership, Global Experience, Public Speaking, Teamwork, Multi-cultural Perspective, Communication, Critical Thinking
+My earlier coursework and practice cover Python, TypeScript, Git, Docker, networking, and automation.
 
-### Hard Skills
-###### Financial:
-Basic Accounting, Statistical and Economic Analysis
-###### Hard Sciences:
-Math, Physics, Chemistry, Biology (8 semesters of honors experience in each)
-###### Special Interests:
-Probability and Combinatorics, Classical Mechanics, Electricity and Magnetism, Modular Arithmetic, Geometric and Logical Analysis, Mathematical Proofs and Inductions
+- [Software tools and project planning](https://github.com/ecedegirmen/comp290-workspace): course workspace, including a personal-finance app proposal, wireframes, and development plan.
+- [TypeScript foundations](https://github.com/ecedegirmen/TypeHero-Tutorial): TypeHero exercises on types, operators, and generics.
+- [Browse the coursework directory](https://github.com/ecedegirmen/research-portfolio/blob/main/docs/repository-directory.md#coursework-and-technical-practice): smaller Git, networking, and build-automation exercises.
+
+I speak Turkish and English and bring an international perspective from Türkiye to my studies and work.
